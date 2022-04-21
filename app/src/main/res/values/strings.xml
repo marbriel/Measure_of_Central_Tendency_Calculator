@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="central_tendency_title">Measures of Central Tendency</string>
+    <string name="instruction_here">Insert Comma Separated Value</string>
+    <string name="instruction_here_input">Type Here</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="card_data">Inserted Data</string>
+    <string name="card_mean">Mean</string>
+    <string name="card_median">Median</string>
+    <string name="card_mode">Mode</string>
+    <string name="card_sd">Standard Deviation</string>
+    <string name="card_variance">Variance</string>
+</resources>
